@@ -11,7 +11,7 @@ Este relatório apresenta o progresso diário do trabalho dos funcionários em u
 ## Métricas
 
 - Total de Horas Trabalhadas: 43 horas
-- Média Diária de Horas Trabalhadas: 6.14 horas
+- Média Diária de Horas Trabalhadas: 6.14 horas ≅ ( 6 horas e 8 minutos)
 - Total de Bugs Corrigidos: 16
 - Média Diária de Bugs Corrigidos: 2.29
 - Total de Tarefas Concluídas: 29
