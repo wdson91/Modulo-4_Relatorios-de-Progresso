@@ -21,21 +21,21 @@ Este relatório apresenta o progresso diário do trabalho dos funcionários em u
 
 ![Total de Horas Trabalhadas por Dia](assets/Total_Horas_Trabalhadas.png)
 
-## Gráfico - Total de Bugs Corrigidos por Dia
-
-![Total de Bugs Corrigidos por Dia](assets/Total_Bugs_Corrigidos.png)
-
-## Gráfico - Total de Tarefas Concluídas por Dia
-
-![Total de Tarefas Concluídas por Dia](assets/Total_Tarefas_Concluidas.png)
-
 ## Gráfico - Média Diária de Horas Trabalhadas
 
 ![Média Diária de Horas Trabalhadas](assets/Media_Horas_Trabalhadas.png)
 
+## Gráfico - Total de Bugs Corrigidos por Dia
+
+![Total de Bugs Corrigidos por Dia](assets/Total_Bugs_Corrigidos.png)
+
 ## Gráfico - Média Diária de Bugs Corrigidos
 
 ![Média Diária de Bugs Corrigidos](assets/Media_Bugs_Corrigidos.png)
+
+## Gráfico - Total de Tarefas Concluídas por Dia
+
+![Total de Tarefas Concluídas por Dia](assets/Total_Tarefas_Concluidas.png)
 
 ## Gráfico - Média Diária de Tarefas Concluídas
 
