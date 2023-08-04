@@ -80,7 +80,3 @@ A implementação da redução do trabalho aos domingos pode criar um ambiente d
 A recomendação de redução do trabalho aos domingos é uma medida estratégica que deve ser discutida e avaliada com a equipe. O feedback dos funcionários é crucial para o sucesso dessa mudança. Recomenda-se continuar monitorando a produtividade e avaliar o impacto após a implementação da redução do trabalho aos domingos.
 
 Este relatório oferece insights valiosos para orientar decisões futuras visando otimizar a produtividade e a eficiência da equipe de desenvolvimento de software. Através da implementação das recomendações apresentadas e da participação ativa da equipe, a empresa pode criar um ambiente de trabalho mais produtivo, saudável e equilibrado.
-
----
-
-Este relatório foi gerado utilizando análises de dados e programação. O objetivo é fornecer insights relevantes para melhorar a produtividade e a eficiência da equipe de desenvolvimento de software.
