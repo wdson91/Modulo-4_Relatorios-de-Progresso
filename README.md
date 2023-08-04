@@ -24,6 +24,19 @@ Este relatório foi criado utilizando o Google Colab, uma plataforma de notebook
 3. Execute cada célula do notebook para reproduzir as análises e visualizações.
 4. Leia o relatório gerado para obter insights sobre a produtividade semanal da equipe.
 
+## Base de Dados
+
+![Base de Dados](assets/dados_base.png)
+
+## Métricas
+
+- Total de Horas Trabalhadas: 43 horas
+- Média Diária de Horas Trabalhadas: 6.14 horas ≅ ( 6 horas e 8 minutos)
+- Total de Bugs Corrigidos: 16
+- Média Diária de Bugs Corrigidos: 2.29
+- Total de Tarefas Concluídas: 29
+- Média Diária de Tarefas Concluídas: 4.14
+
 ## Análise dos Dados - Relatório
 
 ### 1. Distribuição de Tarefas e Correção de Bugs
@@ -69,34 +82,5 @@ A recomendação de redução do trabalho aos domingos é uma medida estratégic
 Este relatório oferece insights valiosos para orientar decisões futuras visando otimizar a produtividade e a eficiência da equipe de desenvolvimento de software. Através da implementação das recomendações apresentadas e da participação ativa da equipe, a empresa pode criar um ambiente de trabalho mais produtivo, saudável e equilibrado.
 
 ---
-
-## Base de Dados
-
-![Base de Dados](assets/dados_base.png)
-
-## Métricas
-
-- Total de Horas Trabalhadas: 43 horas
-- Média Diária de Horas Trabalhadas: 6.14 horas ≅ ( 6 horas e 8 minutos)
-- Total de Bugs Corrigidos: 16
-- Média Diária de Bugs Corrigidos: 2.29
-- Total de Tarefas Concluídas: 29
-- Média Diária de Tarefas Concluídas: 4.14
-
-## Gráfico - Total de Horas Trabalhadas por Dia
-
-![Total de Horas Trabalhadas por Dia](assets/Total_Horas_Trabalhadas.png)
-
-## Gráfico - Total de Bugs Corrigidos por Dia
-
-![Total de Bugs Corrigidos por Dia](assets/Total_Bugs_Corrigidos.png)
-
-## Gráfico - Total de Tarefas Concluídas por Dia
-
-![Total de Tarefas Concluídas por Dia](assets/Total_Tarefas_Concluidas.png)
-
-## Gráfico - Produtividade Diária (Tarefas Concluídas por Hora)
-
-![Produtividade Diária (assets/TTarefas Concluídas por Hora)](assets/Produtividade_Diaria.png)
 
 Este relatório foi gerado utilizando análises de dados e programação. O objetivo é fornecer insights relevantes para melhorar a produtividade e a eficiência da equipe de desenvolvimento de software.
